@@ -1,1 +1,2 @@
 # patika.dev- Repo Remake
+# Bir önceki ödevde benden istanmemesine rağmen programı ve benzer örnekleri kuralcalayıp detaylı bir ödev yapmıştım şimdi yeni öğrendiğim şeyleri de kullanarak yebi bir çalışma hazırladım.
